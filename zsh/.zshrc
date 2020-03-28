@@ -73,6 +73,15 @@ fi
 # Aliases
 alias ls='ls --color=auto'
 
+# pazi
+if command -v pazi &>/dev/null; then
+  eval "$(pazi init zsh)"
+fi
+
+# Thefuck
+eval $(thefuck --alias)
+
+# Custom functions
 function create() {
   mkdir -p $1 && cd $1
 }

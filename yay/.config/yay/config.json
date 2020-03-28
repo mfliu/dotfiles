@@ -1,0 +1,8 @@
+{
+  "cleanmenu": true,
+  "combinedupgrade": true,
+  "diffmenu": false,
+  "editmenu": true,
+  "sudoloop": true,
+  "upgrademenu": true
+}

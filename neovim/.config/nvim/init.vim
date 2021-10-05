@@ -23,5 +23,4 @@ let g:loaded_zipPlugin		= 1
 
 " Colorscheme
 set termguicolors
-set background=dark
-colorscheme gotham
+colorscheme nazgul

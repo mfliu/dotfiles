@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/monica/Documents/Graduate_School/research_code/proprioBCI/code/kinematicAnalysis'
+let g:netrw_dirhist_2='/run/media/monica/T7/RnelShare-mfl24/all_cats/Cat_Neural'
+let g:netrw_dirhist_1='/run/media/monica/T7/RnelShare-mfl24/all_cats'
+let g:netrw_dirhist_0='/run/media/monica/T7/RnelShare-mfl24'
+let g:netrw_dirhist_9='/home/monica/Documents/Graduate_School/research_code/proprioBCI/code/kinematicAnalysis'
+let g:netrw_dirhist_8='/home/monica/Documents/websites/neuroActivitiesWebsite'
+let g:netrw_dirhist_7='/home/monica/Documents/websites'
+let g:netrw_dirhist_6='/home/monica/Downloads/PulseLogs/logs'
+let g:netrw_dirhist_5='/home/monica/Downloads/PulseLogs/network'
+let g:netrw_dirhist_4='/opt/pulsesecure/lib/TnccPlugin'

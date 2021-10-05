@@ -26,7 +26,9 @@ Pack 'tpope/vim-apathy'
 Pack 'lervag/vimtex'
 
 " Colorscheme
-Pack 'whatyouhide/vim-gotham'
-" Pack 'mhartington/oceanic-next'
+" Pack 'chriskempson/base16-vim'
+" Pack 'arzg/vim-substrata'
+" Pack 'fxn/vim-monochrome'
+Pack 'wbthomason/vim-nazgul'
 
 call plugpac#end()

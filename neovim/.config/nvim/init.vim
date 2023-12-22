@@ -1,4 +1,5 @@
 scriptencoding utf-8
+lua require('impatient')
 
 " Set the leader keys 
 let g:mapleader = "\<space>"
@@ -24,3 +25,5 @@ let g:loaded_zipPlugin		= 1
 " Colorscheme
 set termguicolors
 colorscheme nazgul
+
+"autocmd VimEnter * ++once lua require('telescope-config')

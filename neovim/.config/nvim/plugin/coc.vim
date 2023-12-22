@@ -8,14 +8,14 @@ augroup END
 
 function! s:load_coc() abort
   packadd coc.nvim
-  call coc#add_extension('coc-python',
+  call coc#add_extension(
         \'coc-lists',
         \'coc-omni',
         \'coc-gitignore',
         \'coc-texlab',
         \'coc-syntax',
         \'coc-snippets',
-        \'coc-python',
+        \'coc-pyright',
         \'coc-highlight',
         \'coc-vimlsp')
 

@@ -1,5 +1,5 @@
 " Custom keymaps
 
-nnoremap - :Buffers<cr>
-nnoremap _ :Files<cr>
-nnoremap + :GFiles<cr>
+nnoremap - :Telescope buffers show_all_buffers=true theme=get_dropdown<cr>
+nnoremap _ :Telescope find_files theme=get_dropdown<cr>
+nnoremap + :Telescope git_files theme=get_dropdown<cr>
